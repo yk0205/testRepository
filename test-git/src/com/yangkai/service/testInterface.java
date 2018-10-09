@@ -1,6 +1,6 @@
 package com.yangkai.service;
 
-interface testInterface {
+public interface testInterface {
 
 	void m();
 	void m2();
